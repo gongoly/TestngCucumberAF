@@ -1,0 +1,16 @@
+
+---------------------------------- Test 'feature' ----------------------------------
+
+[05/01/2019 11:41:49] START-> feature
+
+    ***Test Parameters = Submit data to airfrance.fr using contact us form
+
+    ***Result = PASSED
+
+[05/01/2019 11:41:49] END  -> feature
+
+---
+
+
+Total Passed = 1, Total Failed = 0, Total Skipped = 0
+

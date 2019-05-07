@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Air_France_Company_Test_Suite" preserve-order="true" parallel="false" thread-count="1" verbose="2">
+
+    <!--  test groups -->
+    <groups>
+        <run>
+            <include name = "AirFranceTest" />
+            <exclude name = "" />
+        </run>
+    </groups>
+
+    <!--  test listeners -->
+    <listeners>
+        <listener class-name="TestngTestRunner.TestNG_ConsoleRunner" />
+        <listener class-name="Utils.ExtentReports.ExtentTestNGIReporterListener" />
+    </listeners>
+
+    <!--  suite parameters -->
+    <parameter name="environment" value="local" />
+
+    <!--  tests -->
+    <test name="Air France Test - Chrome">
+        <!-- test parameters -->
+        <parameter name="browser" value="chrome" />
+        <parameter name="platform" value="Windows 7" />
+        <!--<parameter name="includePattern" value="" />
+        <parameter name="excludePattern" value="" />-->
+
+        <classes>
+            <class name="stepDefinitions.AirFranceTest"/>
+        </classes>
+    </test>
+
+</suite>

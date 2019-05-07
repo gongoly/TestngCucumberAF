@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AFValbonne Test Suite" >
+    <!--  test listeners -->
+    <listeners>
+        <listener class-name="TestngTestRunner.TestNG_ConsoleRunner" />
+        <listener class-name="Utils.ExtentReports.ExtentTestNGIReporterListener" />
+    </listeners>
+    <test name="test">
+        <classes>
+            <class name="TestngTestRunner.TestNGCucumberMainRunner"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,26 @@
+
+---------------------------------- Test 'feature' ----------------------------------
+
+[05/01/2019 12:46:29] START-> feature
+
+    ***Test Parameters = Submit data to airfrance.fr using contact us form
+
+cucumber.runtime.CucumberException: Hooks must declare 0 or 1 arguments. public void stepDefinitions.BaseTest.setup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,org.testng.ITestContext) throws java.lang.Exception
+
+    ***Result = FAILED
+
+[05/01/2019 12:46:30] END  -> TestngTestRunner.TestNGCucumberMainRunner.feature
+
+---
+
+InputStream cannot be null
+
+    ***Result = CONFIGURATION FAILED
+
+[05/01/2019 12:46:30] END CONFIG -> TestngTestRunner.TestNGCucumberMainRunner.writeExtentReport
+
+---
+
+
+Total Passed = 0, Total Failed = 1, Total Skipped = 0
+

@@ -1,0 +1,35 @@
+
+---------------------------------- Test 'feature' ----------------------------------
+
+[05/02/2019 00:25:16] START-> feature
+
+    ***Test Parameters = Submit data to airfrance.fr using contact us form
+
+org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MBP-de-drame', ip: '2001:861:4481:3920:c8ea:b9b5:225c:7c83', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.4', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: /var/folders/_6/zdwq5wzx035...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:53127}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: 47ad19dcd1e0a57be0e3a2771c3e1525
+
+    ***Result = FAILED
+
+[05/02/2019 00:25:24] END  -> TestngTestRunner.TestNGCucumberMainRunner.feature
+
+---
+
+InputStream cannot be null
+
+    ***Result = CONFIGURATION FAILED
+
+[05/02/2019 00:25:24] END CONFIG -> TestngTestRunner.TestNGCucumberMainRunner.writeExtentReport
+
+---
+
+
+Total Passed = 0, Total Failed = 1, Total Skipped = 0
+

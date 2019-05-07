@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0">
+<testcase classname="Submit data to airfrance.fr using contact us form" name="Submit valid data via contact us form" time="0">
+<system-out><![CDATA[Given I access air france contact us link...................................skipped
+And i click on join our internet support link...............................skipped
+And i click on select form link and i select the invoice request............skipped
+And i click on the invoice request link.....................................skipped
+When i select a civility....................................................skipped
+When i enter a valid firstname..............................................skipped
+When i enter a valid last name..............................................skipped
+When i enter a valid email address..........................................skipped
+And i enter a street number.................................................skipped
+And i enter a postal code...................................................skipped
+And i enter a city..........................................................skipped
+And i enter payor's name....................................................skipped
+And i enter reference of reservation........................................skipped
+And i enter Passenger name..................................................skipped
+And i enter Passenger Passenger's first name................................skipped
+And i enter comments........................................................skipped
+And i attach a file.........................................................skipped
+When i click on the submit button...........................................skipped
+Then the information should successfully be submitted via the contact us form.skipped
+]]></system-out>
+</testcase>
+</testsuite>

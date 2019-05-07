@@ -1,0 +1,26 @@
+
+---------------------------------- Test 'feature' ----------------------------------
+
+[05/07/2019 18:28:44] START-> feature
+
+    ***Test Parameters = Submit data to airfrance.fr using contact us form
+
+java.lang.AssertionError: WebElement is NOT visible, Exception: null
+
+    ***Result = FAILED
+
+[05/07/2019 18:29:00] END  -> TestngTestRunner.TestNGCucumberMainRunner.feature
+
+---
+
+InputStream cannot be null
+
+    ***Result = CONFIGURATION FAILED
+
+[05/07/2019 18:29:00] END CONFIG -> TestngTestRunner.TestNGCucumberMainRunner.writeExtentReport
+
+---
+
+
+Total Passed = 0, Total Failed = 1, Total Skipped = 0
+

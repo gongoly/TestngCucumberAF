@@ -1,0 +1,256 @@
+
+---------------------------------- Test 'tc001_airfrance: Navigate Passion Tea Co 'Welcome' Page' ----------------------------------
+
+[05/01/2019 11:05:08] START-> tc001_airfrance
+
+    ***Test Parameters = tc001_airfrance.01, Navigate Passion Tea Co 'Welcome' Page, {"description":"Navigate Passion Tea Co 'Welcome' Page","menu":"Welcome","title":"Welcome","rowID":"tc001_airfrance.01"}
+
+    ***Result = PASSED
+
+[05/01/2019 11:05:08] END  -> tc001_airfrance
+
+---
+
+Unable to wait and click on the WebElement, using locator: <By.xpath: //a[@id='idContactLink']>
+
+    ***Result = CONFIGURATION FAILED
+
+[05/01/2019 11:05:08] END CONFIG -> testNGstepDefinitions.AirFranceTest.testMethodTeardown
+
+---
+
+Unable to wait and click on the WebElement, using locator: <By.xpath: //a[@id='idContactLink']>
+
+    ***Result = SKIPPED
+
+[05/01/2019 11:05:08] END  -> testNGstepDefinitions.AirFranceTest.tc001_airfrance
+
+---
+
+Unable to wait and click on the WebElement, using locator: <By.xpath: //a[@id='idContactLink']>
+
+    ***Result = SKIPPED
+
+[05/01/2019 11:05:08] END  -> testNGstepDefinitions.AirFranceTest.tc001_airfrance
+
+---
+
+Unable to wait and click on the WebElement, using locator: <By.xpath: //a[@id='idContactLink']>
+
+    ***Result = SKIPPED
+
+[05/01/2019 11:05:08] END  -> testNGstepDefinitions.AirFranceTest.tc001_airfrance
+
+---
+
+Unable to wait and click on the WebElement, using locator: <By.xpath: //a[@id='idContactLink']>
+
+    ***Result = SKIPPED
+
+[05/01/2019 11:05:08] END  -> testNGstepDefinitions.AirFranceTest.tc001_airfrance
+
+---
+
+Unable to wait and click on the WebElement, using locator: <By.xpath: //a[@id='idContactLink']>
+
+    ***Result = SKIPPED
+
+[05/01/2019 11:05:08] END  -> testNGstepDefinitions.AirFranceTest.tc002_airfrance
+
+---
+
+Unable to wait and click on the WebElement, using locator: <By.xpath: //a[@id='idContactLink']>
+
+    ***Result = SKIPPED
+
+[05/01/2019 11:05:08] END  -> testNGstepDefinitions.AirFranceTest.tc002_airfrance
+
+---
+
+Unable to wait and click on the WebElement, using locator: <By.xpath: //a[@id='idContactLink']>
+
+    ***Result = SKIPPED
+
+[05/01/2019 11:05:08] END  -> testNGstepDefinitions.AirFranceTest.tc002_airfrance
+
+---
+
+Unable to wait and click on the WebElement, using locator: <By.xpath: //a[@id='idContactLink']>
+
+    ***Result = SKIPPED
+
+[05/01/2019 11:05:08] END  -> testNGstepDefinitions.AirFranceTest.tc002_airfrance
+
+---
+
+Unable to wait and click on the WebElement, using locator: <By.xpath: //a[@id='idContactLink']>
+
+    ***Result = SKIPPED
+
+[05/01/2019 11:05:08] END  -> testNGstepDefinitions.AirFranceTest.tc002_airfrance
+
+---
+
+Unable to wait and click on the WebElement, using locator: <By.xpath: //a[@id='idContactLink']>
+
+    ***Result = SKIPPED
+
+[05/01/2019 11:05:08] END  -> testNGstepDefinitions.AirFranceTest.tc002_airfrance
+
+---
+
+Unable to wait and click on the WebElement, using locator: <By.xpath: //a[@id='idContactLink']>
+
+    ***Result = SKIPPED
+
+[05/01/2019 11:05:08] END  -> testNGstepDefinitions.AirFranceTest.tc002_airfrance
+
+---
+
+Unable to wait and click on the WebElement, using locator: <By.xpath: //a[@id='idContactLink']>
+
+    ***Result = SKIPPED
+
+[05/01/2019 11:05:08] END  -> testNGstepDefinitions.AirFranceTest.tc003_airfrance
+
+---
+
+Unable to wait and click on the WebElement, using locator: <By.xpath: //a[@id='idContactLink']>
+
+    ***Result = SKIPPED
+
+[05/01/2019 11:05:08] END  -> testNGstepDefinitions.AirFranceTest.tc003_airfrance
+
+---
+
+Unable to wait and click on the WebElement, using locator: <By.xpath: //a[@id='idContactLink']>
+
+    ***Result = SKIPPED
+
+[05/01/2019 11:05:08] END  -> testNGstepDefinitions.AirFranceTest.tc003_airfrance
+
+---
+
+Unable to wait and click on the WebElement, using locator: <By.xpath: //a[@id='idContactLink']>
+
+    ***Result = SKIPPED
+
+[05/01/2019 11:05:08] END  -> testNGstepDefinitions.AirFranceTest.tc003_airfrance
+
+---
+
+Unable to wait and click on the WebElement, using locator: <By.xpath: //a[@id='idContactLink']>
+
+    ***Result = SKIPPED
+
+[05/01/2019 11:05:08] END  -> testNGstepDefinitions.AirFranceTest.tc003_airfrance
+
+---
+
+Unable to wait and click on the WebElement, using locator: <By.xpath: //a[@id='idContactLink']>
+
+    ***Result = SKIPPED
+
+[05/01/2019 11:05:08] END  -> testNGstepDefinitions.AirFranceTest.tc003_airfrance
+
+---
+
+Unable to wait and click on the WebElement, using locator: <By.xpath: //a[@id='idContactLink']>
+
+    ***Result = SKIPPED
+
+[05/01/2019 11:05:08] END  -> testNGstepDefinitions.AirFranceTest.tc003_airfrance
+
+---
+
+Unable to wait and click on the WebElement, using locator: <By.xpath: //a[@id='idContactLink']>
+
+    ***Result = SKIPPED
+
+[05/01/2019 11:05:09] END  -> testNGstepDefinitions.AirFranceTest.tc004_airfrance
+
+---
+
+Unable to wait and click on the WebElement, using locator: <By.xpath: //a[@id='idContactLink']>
+
+    ***Result = SKIPPED
+
+[05/01/2019 11:05:09] END  -> testNGstepDefinitions.AirFranceTest.tc005_airfrance
+
+---
+
+Unable to wait and click on the WebElement, using locator: <By.xpath: //a[@id='idContactLink']>
+
+    ***Result = SKIPPED
+
+[05/01/2019 11:05:09] END  -> testNGstepDefinitions.AirFranceTest.tc006_airfrance
+
+---
+
+Unable to wait and click on the WebElement, using locator: <By.xpath: //a[@id='idContactLink']>
+
+    ***Result = SKIPPED
+
+[05/01/2019 11:05:09] END  -> testNGstepDefinitions.AirFranceTest.tc006_airfrance
+
+---
+
+Unable to wait and click on the WebElement, using locator: <By.xpath: //a[@id='idContactLink']>
+
+    ***Result = SKIPPED
+
+[05/01/2019 11:05:09] END  -> testNGstepDefinitions.AirFranceTest.tc006_airfrance
+
+---
+
+Unable to wait and click on the WebElement, using locator: <By.xpath: //a[@id='idContactLink']>
+
+    ***Result = SKIPPED
+
+[05/01/2019 11:05:09] END  -> testNGstepDefinitions.AirFranceTest.tc006_airfrance
+
+---
+
+Unable to wait and click on the WebElement, using locator: <By.xpath: //a[@id='idContactLink']>
+
+    ***Result = SKIPPED
+
+[05/01/2019 11:05:09] END  -> testNGstepDefinitions.AirFranceTest.tc006_airfrance
+
+---
+
+Unable to wait and click on the WebElement, using locator: <By.xpath: //a[@id='idContactLink']>
+
+    ***Result = SKIPPED
+
+[05/01/2019 11:05:09] END  -> testNGstepDefinitions.AirFranceTest.tc006_airfrance
+
+---
+
+Unable to wait and click on the WebElement, using locator: <By.xpath: //a[@id='idContactLink']>
+
+    ***Result = SKIPPED
+
+[05/01/2019 11:05:09] END  -> testNGstepDefinitions.AirFranceTest.tc006_airfrance
+
+---
+
+Unable to wait and click on the WebElement, using locator: <By.xpath: //a[@id='idContactLink']>
+
+    ***Result = SKIPPED
+
+[05/01/2019 11:05:09] END  -> testNGstepDefinitions.AirFranceTest.tc006_airfrance
+
+---
+
+Unable to wait and click on the WebElement, using locator: <By.xpath: //a[@id='idContactLink']>
+
+    ***Result = SKIPPED
+
+[05/01/2019 11:05:09] END  -> testNGstepDefinitions.AirFranceTest.tc006_airfrance
+
+---
+
+
+Total Passed = 1, Total Failed = 0, Total Skipped = 29
+

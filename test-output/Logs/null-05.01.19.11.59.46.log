@@ -1,0 +1,26 @@
+
+---------------------------------- Test 'feature' ----------------------------------
+
+[05/01/2019 11:59:46] START-> feature
+
+    ***Test Parameters = Submit data to airfrance.fr using contact us form
+
+java.lang.NullPointerException
+
+    ***Result = FAILED
+
+[05/01/2019 11:59:47] END  -> TestngTestRunner.TestNGCucumberMainRunner.feature
+
+---
+
+InputStream cannot be null
+
+    ***Result = CONFIGURATION FAILED
+
+[05/01/2019 11:59:47] END CONFIG -> TestngTestRunner.TestNGCucumberMainRunner.writeExtentReport
+
+---
+
+
+Total Passed = 0, Total Failed = 1, Total Skipped = 0
+
